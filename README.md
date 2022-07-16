@@ -5,18 +5,6 @@
 <p align="center">
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Posterizedsoul&show_icons=true&count_private=true&show_icons=true&theme=radical">
-
-![](https://github-readme-stats.vercel.app/api?username=Posterizedsoul&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Posterizedsoul&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Posterizedsoul&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Posterizedsoul&layout=compact&card_width=250&langs_count=6&theme=radical">
 
 </p>
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=Posterizedsoul&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Posterizedsoul&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Posterizedsoul&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
